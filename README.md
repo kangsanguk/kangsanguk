@@ -1,5 +1,16 @@
-### Hi there 👋
+## 안녕하세요! 강상욱입니다!👋
 
+### - 🔭 I’m currently working on ...
+- 명지대학교 정보통신공학과
+- 멋쟁이사자처럼 8기
+
+### - 🌱 I’m currently learning ...
+- React
+- Django
+- DataBase
+
+### - 📫 How to reach me: ...
+- Email: sanguk166@naver.com
 <!--
 **kangsanguk/kangsanguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
