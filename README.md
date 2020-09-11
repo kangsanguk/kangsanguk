@@ -8,6 +8,7 @@
 - React
 - Django
 - DataBase
+- BigData
 
 ### - 📫 How to reach me: ...
 - Email: sanguk166@naver.com
